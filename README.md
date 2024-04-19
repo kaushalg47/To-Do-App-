@@ -1,4 +1,4 @@
-# To-Do App
+# To-Do App [XOVEX Task]
 
 This is a simple To-Do application built with flutter with the following features:
 
@@ -12,7 +12,7 @@ This is a simple To-Do application built with flutter with the following feature
 
 ## Getting started
 
-To setup this app you will need to have Flutter SDK installed and have to import intl package for date formatting. to run the application just run the following command in the project directory:
+To setup this app you will need to have Flutter SDK installed and have to import intl package for date formatting. to run the application just run the following command in the project directory when the emulator is running for testing Nexus 7 emulator was used.
 
 ```bash
 flutter run
@@ -23,7 +23,11 @@ and you also have to unstall the following package for current Date:
 flutter pub get table_calendar
 ```
 
+
 ## Preview 
+
+![APP](ppl.png)
+
 
 ## Additional Information
 
